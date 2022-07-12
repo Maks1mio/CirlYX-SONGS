@@ -1,5 +1,5 @@
 [MetaData]
-id:0
+id: 0
 Map: Yuuri - More One Night
 DataTime: 7.13.2022
 MapFl: https://api.github.com/repos/Maks1mio/CirlYX-SONGS/contents/Songs/Yuuri - More One Night
@@ -8,7 +8,7 @@ CYX: https://raw.githubusercontent.com/Maks1mio/CirlYX-SONGS/main/Songs/Yuuri - 
 MP3: https://raw.githubusercontent.com/Maks1mio/CirlYX-SONGS/main/Songs/Yuuri - More One Night/audio.mp3
 
 [MetaData]
-id:1
+id: 1
 Map: KillerBlood - Run Lads Run
 DataTime: 7.13.2022
 MapFl: https://api.github.com/repos/Maks1mio/CirlYX-SONGS/contents/Songs/KillerBlood - Run Lads Run
@@ -17,7 +17,7 @@ CYX: https://raw.githubusercontent.com/Maks1mio/CirlYX-SONGS/main/Songs/KillerBl
 MP3: https://raw.githubusercontent.com/Maks1mio/CirlYX-SONGS/main/Songs/KillerBlood - Run Lads Run/audio.mp3
 
 [MetaData]
-id:2
+id: 2
 Map:
 DataTime:
 MapFl:
