@@ -1,4 +1,5 @@
-[id:0]
+[MetaData]
+id:0
 Map: "Yuuri - More One Night"
 DataTime: "7/13/2022"
 MapFl: "https://api.github.com/repos/Maks1mio/CirlYX-SONGS/contents/Songs/Yuuri - More One Night"
@@ -6,7 +7,8 @@ BG: "https://raw.githubusercontent.com/Maks1mio/CirlYX-SONGS/main/Songs/Yuuri - 
 CYX: "https://raw.githubusercontent.com/Maks1mio/CirlYX-SONGS/main/Songs/Yuuri - More One Night/Yuuri - More One Night[SquareTude].cyx"
 MP3: "https://raw.githubusercontent.com/Maks1mio/CirlYX-SONGS/main/Songs/Yuuri - More One Night/audio.mp3"
 
-[id:1]
+[MetaData]
+id:1
 Map: "KillerBlood - Run Lads Run"
 DataTime: "7/13/2022"
 MapFl: "https://api.github.com/repos/Maks1mio/CirlYX-SONGS/contents/Songs/KillerBlood - Run Lads Run"
@@ -14,7 +16,8 @@ BG: "https://raw.githubusercontent.com/Maks1mio/CirlYX-SONGS/main/Songs/KillerBl
 CYX: "https://raw.githubusercontent.com/Maks1mio/CirlYX-SONGS/main/Songs/KillerBlood - Run Lads Run/KillerBlood - Run Lads Run[Mr HeliX].cyx"
 MP3: "https://raw.githubusercontent.com/Maks1mio/CirlYX-SONGS/main/Songs/KillerBlood - Run Lads Run/audio.mp3"
 
-[id:2]
+[MetaData]
+id:2
 Map: ""
 DataTime: ""
 MapFl: ""
